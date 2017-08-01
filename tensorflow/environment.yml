@@ -1,0 +1,19 @@
+name: oreillytf
+dependencies:
+- python=2.7.13
+- jupyter=1.0.0
+- notebook=4.4.1
+- pil=1.1.7
+- dill=0.2.5
+- graphviz=2.38.0
+- ipywidgets=4.1.1
+- matplotlib=2.0.0
+- numpy=1.11.3
+- pydot=1.0.28
+- scipy=0.19.0
+- seaborn=0.7.0
+- scikit-image=0.12.3
+- scikit-learn=0.18.1
+- tensorflow=1.1.0
+- pip:
+  - git+https://github.com/thedataincubator/expectexception.git@master
